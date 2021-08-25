@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzbuzzTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-08-24T08:02:49" hostname="MacBook-Air-de-Sara.local" time="0.034">
+  <properties/>
+  <testcase name="testGenerateListsNumbersUpToFifteen()" classname="FizzbuzzTest" time="0.025"/>
+  <testcase name="testGenerateListsNumbersUpToThree()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="testGenerateListsNumbersUpToOneHundred()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="testGenerateListsNumbersUpToFive()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="testGenerateListsNumbersUpToOne()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="testGenerateListsNumbersUpToTwo()" classname="FizzbuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
